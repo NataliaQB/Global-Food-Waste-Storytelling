@@ -3,6 +3,7 @@
 Este repositorio contiene una serie de notebooks de análisis exploratorio, minería de datos y aprendizaje automático desarrollados como parte de un proyecto académico enfocado en el desperdicio global de alimentos.
 
 🔗 Demostración interactiva del proyecto
+https://83d46f4c-4f10-4eb3-8431-9e5b592f0fce-00-2kzvwy5binohx.worf.replit.dev/
 
 📁 Contenido
 
