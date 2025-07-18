@@ -3,24 +3,35 @@
 Este repositorio contiene una serie de notebooks de análisis exploratorio, minería de datos y aprendizaje automático desarrollados como parte de un proyecto académico enfocado en el desperdicio global de alimentos.
 
 🔗 Demostración interactiva del proyecto
+
 https://83d46f4c-4f10-4eb3-8431-9e5b592f0fce-00-2kzvwy5binohx.worf.replit.dev/
 
 📁 Contenido
 
 Taller N°1: Selección y exploración de datasets relevantes para entender el problema.
+
 Taller N°2-4: Preprocesamiento de datos, generación de reglas de asociación con Apriori y regresión lineal.
+
 Taller N°3 y Taller N°6: Construcción y evaluación de árboles de decisión.
+
 Taller N°5: Clasificación mediante Naive Bayes.
+
 Taller N°7: Análisis de clustering para identificar patrones en los datos transformados.
 
 🛠️ Tecnologías utilizadas
 
 Python 3
+
 Jupyter Notebooks
+
 Pandas, NumPy
+
 Scikit-learn
+
 Matplotlib, Seaborn
+
 mlxtend (para Apriori)
+
 Google Colab / Replit
 
 📊 Objetivo del proyecto
@@ -28,4 +39,5 @@ Contar una historia significativa a través de los datos que ayude a entender el
 
 🤖 Autores
 Sandra Gonzalez y Natalia Quintana
-Duoc UC / Curso: Minería de Datos 
+
+Curso: Minería de Datos / Duoc UC 
